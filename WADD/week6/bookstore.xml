@@ -1,7 +1,10 @@
+<bookstore
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="bookstore.xsd">
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- Link DTD here (for DTD validation) -->
-<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<!-- <!DOCTYPE bookstore SYSTEM "bookstore.dtd"> -->
 
 <!-- If using XSD instead, comment the above line and use the schema below -->
 
